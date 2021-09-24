@@ -4,7 +4,7 @@
 :Revision: version#
 :License: Public Domain
 
-= Project: {Project}
+= Project: SIT210-Task3.1-Arduino-IoT-Cloud
 
 Real-Time Temperature Monitor with Temperature Indicator
 
@@ -28,7 +28,7 @@ Upload the code contained in this sketch on to your board
 === Folder structure
 
 ....
- sketch123                => Arduino sketch folder
+ SIT210-Task3.1P-Ardunio-IoT-Cloud                => Arduino sketch folder
   ├── sketch123.ino       => main Arduino file
   ├── schematics.png      => (optional) an image of the required schematics
   ├── layout.png          => (optional) an image of the layout
