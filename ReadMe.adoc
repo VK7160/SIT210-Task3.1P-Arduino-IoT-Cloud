@@ -51,7 +51,7 @@ Add the bill of the materials you need for this project.
 | U1 | Usb Cable          | UCX00066    | 1
 | A1 | Arduino Nano33IoT  | ANX00066    | 1
 | B1 | Breadboard(any)    | BBX00066    | 1
-| J1 | Jumper Wires       | JWX00066    | 1
+| J1 | Jumper Wires       | JWX00066    | 3
 |===
 
 
