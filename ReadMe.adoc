@@ -29,10 +29,12 @@ Upload the code contained in this sketch on to your board
 
 ....
  SIT210-Task3.1P-Ardunio-IoT-Cloud                => Arduino sketch folder
-  ├── sketch123.ino       => main Arduino file
-  ├── schematics.png      => (optional) an image of the required schematics
-  ├── layout.png          => (optional) an image of the layout
-  └── ReadMe.adoc         => this file
+  ├── sketch123.ino                               => main Arduino file
+  ├── arduino_secrets.h                           => file for setting up the network connection
+  ├── thingProperties.h                           => necessary file for code to work
+  ├── Dashboard.png                               => An image of the Dashboard
+  ├── Layout.png                                  => An image of the circuit layout
+  └── ReadMe.adoc                                 => Method to work with the files
 ....
 
 === License
